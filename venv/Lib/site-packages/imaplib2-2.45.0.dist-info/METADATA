@@ -1,0 +1,16 @@
+Metadata-Version: 2.0
+Name: imaplib2
+Version: 2.45.0
+Summary: A threaded Python IMAP4 client.
+Home-page: http://github.com/bcoe/imaplib2
+Author: Piers Lauder
+Author-email: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+
+UNKNOWN
+
+
